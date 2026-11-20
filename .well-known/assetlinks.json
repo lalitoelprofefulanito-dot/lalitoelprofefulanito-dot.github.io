@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.lalitoelprofefulanito.conociendonos",
+      "sha256_cert_fingerprints": [
+        "2F:FE:C4:AF:90:95:DA:DA:EC:8D:EA:84:0E:DF:64:70:13:B6:53:E3:CF:28:01:6C:FF:D7:9A:35:DE:B6:80:13"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mx.kantun.cooperativaescolar",
+      "sha256_cert_fingerprints": [
+        "PEGUE_AQUI_LA_HUELLA_SHA-256_QUE_MUESTRA_PLAY_CONSOLE"
+      ]
+    }
+  }
+]
